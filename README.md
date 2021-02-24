@@ -1,0 +1,2 @@
+# Star-Wars_Website
+This is a very basic website using html, CSS, Bootstrap, Python and Forms. This website has a few features, an opening crawl page, where the opening crawl of star wars is played. This was coded using CSS. Other features include a register and login feature, that unlocks parts of the site. There is also a feature to change ones password in the event that it should be forgotten. By selecting this option, an email will be sent to you that will contain a link to a page where you can change your password and log back in.
